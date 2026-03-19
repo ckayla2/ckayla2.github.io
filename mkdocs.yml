@@ -1,0 +1,5 @@
+site_name: My Docs
+site_name: User guide title
+site_url: https://ckayla2.github.io/site
+theme:
+  name: material
