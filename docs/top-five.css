@@ -5,7 +5,7 @@ body {
  font-size: 16px;
 }
 h1 {
-  font-family: "Comic Sans MS", Georgia, serif;
+  font-family: "Georgia", serif;
   color: rgb(49, 12, 200); 
 }
 a {
@@ -63,6 +63,6 @@ main {
   }
 
   a {
-    color: rgb(98, 19, 98);
+    color: rgb(34, 1, 96);
   } 
 }
