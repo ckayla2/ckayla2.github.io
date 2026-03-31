@@ -25,3 +25,44 @@ html {
 main {
   flex-grow: 1;
 }
+@media screen and (min-width: 576px) {
+  body {
+    width: 556px;
+  }
+}
+@media screen and (min-width: 768px) {
+  body {
+    width: 748px;
+  }
+}
+@media screen and (min-width: 992px) {
+  body {
+    width: 972px;
+  }
+}
+@media screen and (min-width: 576px) {
+  body {
+    width: 556px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+}
+@media screen and (min-width: 576px) {
+  body {
+    width: 556px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  .logo {
+    font-size: 24px;
+  }
+
+  a {
+    color: rgb(98, 19, 98);
+  } 
+}
