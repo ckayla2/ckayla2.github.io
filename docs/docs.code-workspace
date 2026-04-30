@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Desktop/spotify-json 2"
+		},
+		{
+			"path": "../../../../Downloads/bootstrap-4.0.0-dist"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "spotify-json 2"
+	}
+}
