@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "docs",
+			"path": ".."
+		},
+		{
+			"name": "spotify-json 2",
+			"path": "../../../../../Desktop/spotify-json 2"
+		},
+		{
+			"name": "ckayla2.github.io",
+			"path": "../.."
+		},
+		{
+			"name": "Music list folder",
+			"path": "../Music list folder"
+		},
+		{
+			"name": "music-xml",
+			"path": "../../../../../Downloads/music-xml"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "music-xml"
+	}
+}

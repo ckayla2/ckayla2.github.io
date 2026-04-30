@@ -1,0 +1,21 @@
+
+body {
+  background-color: rgb(0, 11, 15);
+  color: rgb(215, 215, 235);
+  font-family: Arial, sans-serif;
+   text-align: center;
+}
+
+h1 {
+  color: rgb(215, 215, 235);
+  text-align: center;
+        font-size: 100px;
+}
+h2 {
+  color: rgb(215, 215, 235);
+  text-align: center;
+}
+nav {
+  text-align: left;
+
+}
