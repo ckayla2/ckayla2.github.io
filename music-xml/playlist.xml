@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+  <track>
+    <title>Goth</title>
+    <artist>Sidewalks and Skeletons</artist>
+    <album>White Light</album>
+    <link>https://www.youtube.com/watch?v=pKhxvx4TyLk</link>
+  </track>
+  <track>
+    <title>Chandelier</title>
+    <artist>Will Paquin</artist>
+    <album>Single</album>
+    <link>https://www.youtube.com/watch?v=gTMWO7ovAXk</link>
+  </track>
+    <track>
+    <title>Freefall</title>
+    <artist>Dracodraco</artist>
+    <album>Single</album>
+    <link>https://www.youtube.com/watch?v=SJtyejNSYoo</link>
+  </track>
+      <track>
+    <title>I Want Things to be Beautiful</title>
+    <artist>Devi McCallion</artist>
+    <album>Single</album>
+    <link>https://www.youtube.com/watch?v=gUPGLYYT4bc</link>
+  </track>
+   <track>
+    <title>Run</title>
+    <artist>Hirasawa Susumu</artist>
+    <album>Millennium Actress</album>
+    <link>https://www.youtube.com/watch?v=KJY1TomgkBs</link>
+  </track>
+   <track>
+    <title>Xtal</title>
+    <artist>Aphex Twin</artist>
+    <album>Selected Ambient Works 85-92</album>
+    <link>https://www.youtube.com/watch?v=uXpKC8TIAxE&list=OLAK5uy_luEur9V6VWGm0oMYWJlNgRHlsvEOaAHww</link>
+  </track>
+</playlist>
