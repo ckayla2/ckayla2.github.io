@@ -19,3 +19,45 @@ nav {
   text-align: left;
 
 }
+/* Card hover effect */
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15) !important;
+}
+body {
+  background-image: url('https://artwork.neocities.org/bgs/b471d641c2fb84308dfb016cbf4ac6bb_2_40.gif');
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+nav.navbar {
+  background-color: #240543 !important;
+}
+.card {
+  background-color: #fbfbfb;
+}
+
+.card-title,
+.card-text {
+  color: rgb(3, 0, 0);
+}
+.btn-primary {
+  background-color: #6a0dad;
+  border-color: #6a0dad;
+}
+
+.btn-primary:hover {
+  background-color: #4a0080;
+  border-color: #4a0080;
+}
+
+.butterfly {
+  position: absolute;
+  top: 265px;
+  left: 340px;
+  height: 200px;
+  z-index: 999;
+}
