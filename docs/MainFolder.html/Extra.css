@@ -173,3 +173,10 @@ nav.navbar {
   height: 120px;
   z-index: 999;
 }
+footer {
+  color: white !important;
+}
+
+footer a {
+  color: white !important;
+}

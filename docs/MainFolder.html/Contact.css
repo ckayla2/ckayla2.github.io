@@ -38,34 +38,26 @@ body {
 }
 
 nav.navbar {
-  background-color: #240543 !important;
+  background-color: #1f1f28 !important;
 }
 
-.card {
-  background-color: #fbfbfb;
-}
-
-.card-title,
-.card-text {
-  color: rgb(3, 0, 0);
-}
-
-.btn-primary {
-  background-color: #6a0dad;
-  border-color: #6a0dad;
-}
-
-.btn-primary:hover {
-  background-color: #4a0080;
-  border-color: #4a0080;
-}
-
-.butterfly {
+.Sword {
   position: absolute;
-  top: 265px;
-  left: 340px;
-  height: 200px;
+  top: 450px;
+  left: 520px;
+  height: 60px;
   z-index: 999;
+}
+
+.social-icon {
+  font-size: 3rem;
+  color: rgb(191, 188, 188);
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
+  color: #9b59b6;
 }
 
 footer {
